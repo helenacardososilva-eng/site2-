@@ -22,7 +22,7 @@ p {
   margin-top: 20 px;
 }
 
-.galeria img {
+.galeria img search "APPWEB.jpeg" {
   width: 200 px; 
   height: 150 px;
   object-fit: cover;
