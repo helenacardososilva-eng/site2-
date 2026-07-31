@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 20px;
+  margin: 20 px;
   background-color: #f4f4f4;
   color: #333;
 }
@@ -19,15 +19,15 @@ p {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  margin-top: 20px;
+  margin-top: 20 px;
 }
 
 .galeria img {
-  width: 200px;
-  height: 150px;
+  width: 200 px;
+  height: 150 px;
   object-fit: cover;
-  margin: 10px;
-  border: 2px solid #2c3e50;
-  border-radius: 8px;
-  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+  margin: 10 px;
+  border: 2 px solid #2c3e50;
+  border-radius: 8 px;
+  box-shadow: 2 px 2 px 6 px rgba (0, 0, 0, 0.2);
 }
